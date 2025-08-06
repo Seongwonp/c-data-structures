@@ -1,0 +1,4 @@
+#ifndef CARD_CONVERTER_H
+#define CARD_CONVERTER_H
+
+#endif //CARD_CONVERTER_H
