@@ -43,3 +43,6 @@ This repository contains various data structure and algorithm implementations wr
 ```bash
 gcc ./List/singly_linked_list.c -o list
 ./list
+```
+
+OR use CLion or Xcode :)
